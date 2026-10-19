@@ -1,20 +1,24 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dioneysos&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Python%20%26%20Java%20%C2%B7%20B2B%20Systems&descAlignY=58&descColor=a8d8ea&animation=fadeIn"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2C5364&center=true&vCenter=true&width=500&lines=Building+B2B+trade+platforms;Automating+business+workflows;Python+%2F+Java+%2F+Spring+Boot;Open+to+full-time+opportunities)](https://git.io/typing-svg)
+---
 
-[![Email](https://img.shields.io/badge/dioneysos%40proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dioneysos@proton.me)
+# DIONEYSOS
 
-</div>
+**Full-Stack Developer &nbsp;路&nbsp; Python & Java &nbsp;路&nbsp; B2B Systems**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=2C5364&center=true&vCenter=true&width=480&lines=Building+B2B+trade+platforms;Automating+business+workflows;Python+%2F+Java+%2F+Spring+Boot;Open+to+full-time+opportunities)](https://git.io/typing-svg)
+
+[![Email](https://img.shields.io/badge/dioneysos%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dioneysos@proton.me)
 
 ---
+
+</div>
 
 ## Tech Stack
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,spring,fastapi,docker,postgres,redis,linux,git,github&perline=5)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,java,spring,fastapi,docker,postgres,redis,linux,git,github&perline=5)](https://skillicons.dev)
 
 </div>
 
@@ -40,25 +44,22 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dioneysos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioneysos&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dioneysos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioneysos&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dioneysos&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dioneysos&theme=tokyonight&hide_border=true&date_format=Y.n.j)](https://git.io/streak-stats)
 
 </div>
+
+<div align="center">
 
 ---
 
-## Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dioneysos&theme=tokyonight&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+*Open to full-time roles in B2B SaaS, enterprise software, and cross-border trade tech.*
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
